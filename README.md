@@ -1,6 +1,11 @@
 # config
 Various config files for Linux and Windows.
 
+## Contents
+
+- [PowerShell/Microsoft.PowerShell_profile.ps1](#powershellmicrosoftpowershellprofileps1)
+- [VSCode/settings.json](#vscodesettingsjson)
+
 ## PowerShell/Microsoft.PowerShell_profile.ps1
 
 ### Overview
