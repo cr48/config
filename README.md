@@ -8,6 +8,8 @@ Various config files for Linux and Windows.
 
 ## PowerShell/Microsoft.PowerShell_profile.ps1
 
+[Microsoft.PowerShell_profile.ps1](/PowerShell/Microsoft.PowerShell_profile.ps1)
+
 ### Overview
 
 PowerShell profile that configures:
@@ -29,6 +31,8 @@ PowerShell profile that configures:
 | Get-ChildItemColor    | https://github.com/joonro/Get-ChildItemColor      | Provides colorization of Get-ChildItem Cmdlet in PowerShell   |
 
 ## VSCode/settings.json
+
+[settings.json](/VSCode/settings.json)
 
 ### Overview
 
